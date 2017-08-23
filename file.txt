@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capical of France
+state: changes to be committed
+another line for the same file modified and not staged for commit
